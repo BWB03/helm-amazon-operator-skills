@@ -30,3 +30,7 @@ Each skill lists the inputs it uses, how it weighs the evidence, and what its ou
 ## About Helm
 
 This is the five-workflow pack originally shared on [Helm Crate](https://helmcrate.com/#free-pack). The [license](LICENSE) carries over from the original Helm source.
+
+## Use the pack in Buzz
+
+The [Buzz plugin wrapper](plugins/buzz/README.md) adds a workflow picker and an agent tool that supplies each workflow together with its operating rules, guardrails and output templates. Install the `plugins/buzz` folder in Buzz Desktop, then supply your reports and completed guardrails in an agent conversation. No connector is required; the plugin does not execute Amazon changes.

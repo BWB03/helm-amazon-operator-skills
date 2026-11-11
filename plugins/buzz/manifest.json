@@ -1,0 +1,7 @@
+{
+  "id": "helm.amazon-operator",
+  "name": "Helm Amazon Operator",
+  "apiVersion": 1,
+  "description": "Five Amazon operator workflows with guardrails, evidence and human review. Supply your own reports; no live account changes.",
+  "discovery": { "category": "productivity", "tags": ["amazon", "helm", "workflows"] }
+}
